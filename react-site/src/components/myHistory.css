@@ -1,0 +1,32 @@
+.myhistory{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;  
+}
+table{
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;    
+    border-color: white;
+    font-size: 16px;
+ }
+ th, td{
+    padding: 10px;
+    text-align: center;
+ }
+ th{
+    font-size:20px;
+ }
+p{
+    font-size: 20px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    text-shadow: 0 0 20px black, 0 0 30px #fff, 0 0 40px #fff, 0 0 50px;
+}
+ 

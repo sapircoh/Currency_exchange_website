@@ -1,0 +1,32 @@
+.register-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    font-size: 2rem;
+    color: white;
+  }
+  
+  h2 {
+    font-size: 3rem;
+    text-align: center;
+    text-shadow: 0 0 20px black, 0 0 30px #fff, 0 0 40px #fff, 0 0 50px;
+  }
+  
+  .register-section {
+    font-size: 1.5rem;
+    margin-top: 20px;
+  }
+  
+  .register-section a {
+    color: white;
+    text-decoration: underline;
+  }
+  
+  .register-section a:hover {
+    color: silver;
+  }
+
+  #msg{color:red; font-size: 1.8rem;}
+  
